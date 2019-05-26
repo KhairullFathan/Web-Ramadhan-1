@@ -79,3 +79,11 @@ body{
 	top: 0;
 	left: 300px;
 }
+.breadcumbs:hover::after{
+	content: "";
+	display: block;
+	width: 60%;
+	margin: 1px auto;
+	background-color: #06401c; 
+	height: 4px;
+}
