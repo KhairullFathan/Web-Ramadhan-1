@@ -1,0 +1,15 @@
+@font-face	{
+	font-family : "Rodja";
+	src 		: url('../font/Rodja/Rodja-Bold-Slanted.ttf') format('truetype');
+}
+@font-face	{
+	font-family : "Viga";
+	src 		: url('../font/Viga/Viga-Regular.ttf') format('truetype');
+}
+@font-face	{
+	font-family : "Montserrat";
+	src 		: url('../font/Montserrat/Montserrat-Regular.ttf') format('truetype');
+}
+
+.font-rodja {font-family: 'Rodja', arial;}.font-viga {font-family: 'Viga', arial;}.font-montserrat {font-family: 'Montserrat', arial;}
+
